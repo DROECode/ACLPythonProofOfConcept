@@ -21,3 +21,8 @@ Why this project?
 
 Next Steps:
 Code
+
+Environment needed:
+ ACL - http://www.acl.com ACL Services Ltd.
+
+ Python 3.x
