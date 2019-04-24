@@ -1,7 +1,7 @@
 #! Written in ACL for Audit Script
 # This script will expect inputs to the gettweetmain
 # Inputs: ACL script passing in:
-#       ConsumerKey 
+#       ConsumerKey
 #       ConsumerSecret
 #       Owner
 #       OwnerID
@@ -24,7 +24,7 @@ import time
     #print(json.dumps(tweet,indent=4)) # pretty print to screen
 
 def gettweetmain(ConsumerKey,ConsumerSecret,Owner,OwnerID,AccessToken,AccessTokenSecret)
-    username='riiiiight-get-your-own'
+    username='<riiiiight-get-your-own>'
     Tauth = tweepy.OAuthHandler(ConsumerKey, ConsumerSecret)
     Tauth.set_access_token(AcecssToken,AccessTokenSecret)
     Tapi = tweepy.API(Tauth)
