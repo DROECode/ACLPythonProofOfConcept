@@ -26,3 +26,7 @@ Environment needed:
  ACL - http://www.acl.com ACL Services Ltd.
 
  Python 3.x
+
+ Why this matters: you can code from ACL to call software like Python to ensure that there is a way to repeat the work you do.  
+ If you have to make a connection to a variable source outside of ACL functionality, you CAN use tools like Python to make it happen.
+ 
